@@ -1,0 +1,7 @@
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctonalProgramming\bin\Debug\FunctonalProgramming.exe.config
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctonalProgramming\bin\Debug\FunctonalProgramming.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctonalProgramming\bin\Debug\FunctonalProgramming.pdb
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctonalProgramming\obj\Debug\FunctonalProgramming.csproj.AssemblyReference.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctonalProgramming\obj\Debug\FunctonalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctonalProgramming\obj\Debug\FunctonalProgramming.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctonalProgramming\obj\Debug\FunctonalProgramming.pdb

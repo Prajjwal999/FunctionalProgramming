@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctonalProgramming", "FunctonalProgramming\FunctonalProgramming.csproj", "{FD53609C-386E-4074-9249-58EE3C697ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "immutabilityExample", "immutabilityExample\immutabilityExample.csproj", "{609E49D5-EEED-4738-B84D-06E27BFC8B53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstClassFunction", "FirstClassFunction\FirstClassFunction.csproj", "{8FBBB00D-27E9-4D17-B862-8BA253772C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HigherOrderFunction", "HigherOrderFunction\HigherOrderFunction.csproj", "{F2F5E726-ECF1-42CE-A078-838ABB960B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalCOmposition", "FunctionalCOmposition\FunctionalCOmposition.csproj", "{F373A09A-7BAE-4C2E-95E6-F2649996A5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD53609C-386E-4074-9249-58EE3C697ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD53609C-386E-4074-9249-58EE3C697ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD53609C-386E-4074-9249-58EE3C697ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD53609C-386E-4074-9249-58EE3C697ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609E49D5-EEED-4738-B84D-06E27BFC8B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609E49D5-EEED-4738-B84D-06E27BFC8B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609E49D5-EEED-4738-B84D-06E27BFC8B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609E49D5-EEED-4738-B84D-06E27BFC8B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBBB00D-27E9-4D17-B862-8BA253772C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBBB00D-27E9-4D17-B862-8BA253772C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBBB00D-27E9-4D17-B862-8BA253772C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBBB00D-27E9-4D17-B862-8BA253772C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F5E726-ECF1-42CE-A078-838ABB960B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F5E726-ECF1-42CE-A078-838ABB960B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F5E726-ECF1-42CE-A078-838ABB960B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F5E726-ECF1-42CE-A078-838ABB960B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F373A09A-7BAE-4C2E-95E6-F2649996A5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F373A09A-7BAE-4C2E-95E6-F2649996A5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F373A09A-7BAE-4C2E-95E6-F2649996A5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F373A09A-7BAE-4C2E-95E6-F2649996A5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0A9ED9-3906-4EE8-921D-9596610CB397}
+	EndGlobalSection
+EndGlobal

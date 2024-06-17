@@ -1,0 +1,7 @@
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\immutabilityExample\bin\Debug\immutabilityExample.exe.config
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\immutabilityExample\bin\Debug\immutabilityExample.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\immutabilityExample\bin\Debug\immutabilityExample.pdb
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\immutabilityExample\obj\Debug\immutabilityExample.csproj.AssemblyReference.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\immutabilityExample\obj\Debug\immutabilityExample.csproj.CoreCompileInputs.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\immutabilityExample\obj\Debug\immutabilityExample.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\immutabilityExample\obj\Debug\immutabilityExample.pdb

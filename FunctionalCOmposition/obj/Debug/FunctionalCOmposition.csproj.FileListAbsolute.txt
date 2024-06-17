@@ -1,0 +1,7 @@
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctionalCOmposition\bin\Debug\FunctionalCOmposition.exe.config
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctionalCOmposition\bin\Debug\FunctionalCOmposition.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctionalCOmposition\bin\Debug\FunctionalCOmposition.pdb
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctionalCOmposition\obj\Debug\FunctionalCOmposition.csproj.AssemblyReference.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctionalCOmposition\obj\Debug\FunctionalCOmposition.csproj.CoreCompileInputs.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctionalCOmposition\obj\Debug\FunctionalCOmposition.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FunctionalCOmposition\obj\Debug\FunctionalCOmposition.pdb
