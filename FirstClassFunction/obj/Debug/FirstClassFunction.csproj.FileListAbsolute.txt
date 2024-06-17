@@ -1,0 +1,7 @@
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FirstClassFunction\bin\Debug\FirstClassFunction.exe.config
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FirstClassFunction\bin\Debug\FirstClassFunction.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FirstClassFunction\bin\Debug\FirstClassFunction.pdb
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FirstClassFunction\obj\Debug\FirstClassFunction.csproj.AssemblyReference.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FirstClassFunction\obj\Debug\FirstClassFunction.csproj.CoreCompileInputs.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FirstClassFunction\obj\Debug\FirstClassFunction.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\FirstClassFunction\obj\Debug\FirstClassFunction.pdb

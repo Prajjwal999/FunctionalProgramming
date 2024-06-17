@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F5E726-ECF1-42CE-A078-838ABB960B29}|HigherOrderFunction\\HigherOrderFunction.csproj|c:\\users\\star computer system\\source\\repos\\functonalprogramming\\higherorderfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F5E726-ECF1-42CE-A078-838ABB960B29}|HigherOrderFunction\\HigherOrderFunction.csproj|solutionrelative:higherorderfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F373A09A-7BAE-4C2E-95E6-F2649996A5B8}|FunctionalCOmposition\\FunctionalCOmposition.csproj|C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\functionalcomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F373A09A-7BAE-4C2E-95E6-F2649996A5B8}|FunctionalCOmposition\\FunctionalCOmposition.csproj|solutionrelative:functionalcomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD53609C-386E-4074-9249-58EE3C697ACE}|FunctonalProgramming\\FunctonalProgramming.csproj|C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\functonalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD53609C-386E-4074-9249-58EE3C697ACE}|FunctonalProgramming\\FunctonalProgramming.csproj|solutionrelative:functonalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBBB00D-27E9-4D17-B862-8BA253772C84}|FirstClassFunction\\FirstClassFunction.csproj|C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\firstclassfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBBB00D-27E9-4D17-B862-8BA253772C84}|FirstClassFunction\\FirstClassFunction.csproj|solutionrelative:firstclassfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E49D5-EEED-4738-B84D-06E27BFC8B53}|immutabilityExample\\immutabilityExample.csproj|C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\immutabilityexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E49D5-EEED-4738-B84D-06E27BFC8B53}|immutabilityExample\\immutabilityExample.csproj|solutionrelative:immutabilityexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\HigherOrderFunction\\Program.cs",
+              "RelativeDocumentMoniker": "HigherOrderFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\HigherOrderFunction\\Program.cs",
+              "RelativeToolTip": "HigherOrderFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:27:26.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\immutabilityExample\\Program.cs",
+              "RelativeDocumentMoniker": "immutabilityExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\immutabilityExample\\Program.cs",
+              "RelativeToolTip": "immutabilityExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:13:26.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\FunctionalCOmposition\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalCOmposition\\Program.cs",
+              "ToolTip": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\FunctionalCOmposition\\Program.cs",
+              "RelativeToolTip": "FunctionalCOmposition\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:30:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\FirstClassFunction\\Program.cs",
+              "RelativeDocumentMoniker": "FirstClassFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\FirstClassFunction\\Program.cs",
+              "RelativeToolTip": "FirstClassFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:24:14.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\FunctonalProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "FunctonalProgramming\\Program.cs",
+              "ToolTip": "C:\\Users\\Star Computer System\\source\\repos\\FunctonalProgramming\\FunctonalProgramming\\Program.cs",
+              "RelativeToolTip": "FunctonalProgramming\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:09:47.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

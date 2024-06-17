@@ -1,0 +1,7 @@
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\HigherOrderFunction\bin\Debug\HigherOrderFunction.exe.config
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\HigherOrderFunction\bin\Debug\HigherOrderFunction.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\HigherOrderFunction\bin\Debug\HigherOrderFunction.pdb
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\HigherOrderFunction\obj\Debug\HigherOrderFunction.csproj.AssemblyReference.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\HigherOrderFunction\obj\Debug\HigherOrderFunction.csproj.CoreCompileInputs.cache
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\HigherOrderFunction\obj\Debug\HigherOrderFunction.exe
+C:\Users\Star Computer System\source\repos\FunctonalProgramming\HigherOrderFunction\obj\Debug\HigherOrderFunction.pdb
